@@ -1,0 +1,12 @@
+{
+  "name": "Arabic Providers",
+  "version": 1,
+  "tv": [
+    {
+      "name": "Arabic TV Provider",
+      "url": "https://www.hdtodaytv.tv/watch-movie/mufasa-the-lion-king-2024",
+      "type": "js"
+  
+    }
+  ]
+}
